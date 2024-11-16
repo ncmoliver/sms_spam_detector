@@ -1,4 +1,4 @@
-<h1 color="red"> SMS Text Message Spam Detector</h1>
+# SMS Text Message Spam Detector
 
 ![Spam detector logo, heading and electrical background image](spam_logo.png)
 
