@@ -1,5 +1,7 @@
 # SMS Text Message Spam Detector
 
+![Spam detector logo, heading and electrical background image]('spam_log.png')
+
 # Overview
 
 This "Spam or Not Spam" classifier processes text messages to determine if they contain spam content. It uses a natural language processing (NLP) pipeline that first transforms text data using TF-IDF (Term Frequency-Inverse Document Frequency) to represent word importance and then classifies the text with a linear SVM classifier. The model is then integrated into a gradio front-end for user consumption.
