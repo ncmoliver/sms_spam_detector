@@ -6,8 +6,8 @@ This "Spam or Not Spam" classifier processes text messages to determine if they 
 
 ## ☀️ Features
 
-**📝 Text Processing with TF-IDF:** The text messages are transformed into numerical vectors using TF-IDF, highlighting the importance of certain words.
-**🧑‍💻 Classification with Linear SVM:** The transformed data is classified as "Spam" or "Not Spam" using a linear SVM classifier, chosen for its effectiveness with high-dimensional data.
+**📝 Text Processing with TF-IDF:** The text messages are transformed into numerical vectors using TF-IDF, highlighting the importance of certain words.  
+**🧑‍💻 Classification with Linear SVM:** The transformed data is classified as "Spam" or "Not Spam" using a linear SVM classifier, chosen for its effectiveness with high-dimensional data.  
 **🌐 Gradio Front-End:** The model is accessible via a web interface created with Gradio, allowing users to input their own messages and get immediate feedback on whether they are spam.
 
 ## 🚀 Getting Started
@@ -46,13 +46,13 @@ Example:
 
 ## 🔧 Model Pipeline
 
-- Data Preprocessing
+- Data Preprocessing  
   Split dataset using train_test_split, into features (`X`) and target (`y`).
 
-- Model Training
+- Model Training  
   A linear SVM model is trained on labeled text messages to distiguish between spam or not spam.
 
-- User Interface
+- User Interface  
   The model is deployed in a Gradio front-end for easy access.
 
 # 📚 References
