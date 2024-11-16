@@ -32,9 +32,10 @@ This "Spam or Not Spam" classifier processes text messages to determine if they 
 3. The classifier will output either "Spam" or "Not Spam" based on the content in the message.
 
 Example:
-
-    <mark> Input: "The drive home was super long today, too much traffic!" </mark>
-    <mark> Output: "Not Spam" </mark>
+'''
+Input: "The drive home was super long today, too much traffic!"  
+ Output: "Not Spam"
+'''
 
 ## Model Pipeline
 
