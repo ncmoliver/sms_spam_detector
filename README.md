@@ -1,4 +1,4 @@
-# Spam Detector
+# SMS Text Message Spam Detector
 
 # Overview
 
@@ -27,4 +27,22 @@ This "Spam or Not Spam" classifier processes text messages to determine if they 
 
 #### Usage
 
-Enter a
+1. Enter a text message in the provided input box on the Gradio interface.
+2. Click the "Submit" button.
+3. The classifier will output either "Spam" or "Not Spam" based on the content in the message.
+
+Example:
+
+- Input: "The drive home was super long today, too much traffic!"
+- Output: "Not Spam"
+- Input: "Congratulations! You have just won a free lottery ticket. Claim now!"
+
+## Model Pipeline
+
+Data Preprocessing: Split dataset using train_test_split, into features (X) and target (y).
+Model Training: A linear SVM model is trained on labeled text messages to distiguish between spam or not spam.
+User Interface: The model is deployed in a Gradio front-end for easy access.
+
+# References
+
+[Xpert Learning Assistant](https://bootcampspot.instructure.com/courses/6028/external_tools/313)
