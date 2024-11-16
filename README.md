@@ -29,13 +29,13 @@ This "Spam or Not Spam" classifier processes text messages to determine if they 
 
 #### 💡 Usage
 
-1. Type Your SMS Message
+1. Type Your SMS Message  
    Enter a text message in the provided input box on the Gradio interface.
 
-2. Classify
+2. Classify  
    Click the "Submit" button.
 
-3. Review The Results
+3. Review The Results  
    The classifier will output either "Spam" or "Not Spam" based on the content in the message.
 
 Example:
