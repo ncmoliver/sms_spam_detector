@@ -1,6 +1,6 @@
 # SMS Text Message Spam Detector
 
-![Spam detector logo, heading and electrical background image]('spam_log.png')
+![Spam detector logo, heading and electrical background image](spam_log.png)
 
 # Overview
 
