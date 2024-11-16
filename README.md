@@ -1,4 +1,4 @@
-<h1 align-text=center> SMS Text Message Spam Detector</h1>
+<h1 align-content=center> SMS Text Message Spam Detector</h1>
 
 ![Spam detector logo, heading and electrical background image](spam_logo.png)
 
