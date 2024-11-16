@@ -33,7 +33,7 @@ This "Spam or Not Spam" classifier processes text messages to determine if they 
 
 Example:
 
-    ==Input: "The drive home was super long today, too much traffic!"==
+    == Input: "The drive home was super long today, too much traffic!" ==
     ==Output: "Not Spam"==
     ==Input: "Congratulations! You have just won a free lottery ticket. Claim now!"==
 
