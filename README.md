@@ -47,16 +47,13 @@ Example:
 ## 🔧 Model Pipeline
 
 - Data Preprocessing
-
-* Split dataset using train_test_split, into features (`X`) and target (`y`).
+  Split dataset using train_test_split, into features (`X`) and target (`y`).
 
 - Model Training
-
-* A linear SVM model is trained on labeled text messages to distiguish between spam or not spam.
+  A linear SVM model is trained on labeled text messages to distiguish between spam or not spam.
 
 - User Interface
-
-* The model is deployed in a Gradio front-end for easy access.
+  The model is deployed in a Gradio front-end for easy access.
 
 # 📚 References
 
